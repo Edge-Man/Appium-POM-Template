@@ -1,11 +1,11 @@
-package com.testdroid.appium.android.sample;
+package com.edgewisetechnology.appium.android.Tests;
 
 import org.openqa.selenium.By;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import com.testdroid.appium.BaseAndroidTest;
+import com.edgewisetechnology.appium.BaseAndroidTest;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;

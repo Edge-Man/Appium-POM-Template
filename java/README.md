@@ -1,9 +1,9 @@
-Appium Sample in Java
+Appium Template in Java
 =====================
 
 This folder includes sample Appium tests using Java for Android and iOS, which can be run in [Bitbar Cloud](https://cloud.bitbar.com/).
 
-This example can be run either using client side execution or server side execution. To find more information about these possibilities, visit <http://docs.bitbar.com/testing/appium/>
+This example can be run either using local execution or cloud execution.
 
 # Client Side Test Execution
 ## Prerequisites

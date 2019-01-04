@@ -1,4 +1,4 @@
-package com.testdroid.appium;
+package com.edgewisetechnology.appium;
 
 import java.io.File;
 import java.io.IOException;
